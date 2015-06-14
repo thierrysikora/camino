@@ -1,4 +1,4 @@
 # camino
-Learning and Development tools
+Learning and Development tool
 
-home : http://savanticab.com/camino
+See home page : http://savanticab.com/camino
